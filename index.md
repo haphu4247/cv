@@ -46,12 +46,12 @@ Eager to grow into a FE and BE Developer while continuing to deliver high-qualit
 ### SNA Vietnam | *Mobile Developer*  
 *2020 – 2021, Ho Chi Minh City*  
 - **PlanK App- Flutter**: Korean learning by video & voice-to-text.  
-- **My Counselor App - iOS**: Counseling app, voice transcription, Firebase, VIPER.
-*2019 – 2020*  
+- **My Counselor App - iOS**: Counseling app, voice transcription, Firebase, VIPER.  
+*2019 – 2020, Ho Chi Minh City*  
 - **Cocona App - Android** : Social video network: live streaming, video uploads, Google Maps, TensorFlow research.
 
 **Earlier Roles**  
-*10/2016 – 2019, Ho Chi Minh City*
+*2017 – 2019, Ho Chi Minh City*
 - 5Stars Software Solution – Android Developer.  
 - FPT Software – Xamarin & Android Developer (IMS, NGTV projects).  
 - GOSU Game Company – Unity MMO game (AssetBundle system).
