@@ -35,7 +35,7 @@ Eager to grow into a FE and BE Developer while continuing to deliver high-qualit
 - **Lotteria Vietnam App - Flutter** Online ordering & delivery, payment integration.  
 - **Lotte Cinema App - Flutter**. Seat booking, promotions, loyalty, multi-payment.
 - **SHARK Market - Android/iOS Native** – Online supermarket.
-- **L.POINT App** – Unified membership & point redemption.  
+- **L.POINT App - Android/iOS Native** – Unified membership & point redemption.  
 - CI/CD with Bitrise, staging environment, app store releases.
 
 ### Freelance | *Flutter Developer*  
