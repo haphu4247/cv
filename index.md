@@ -34,13 +34,13 @@ Eager to grow into a FE and BE Developer while continuing to deliver high-qualit
 *Aug 2022 – Jul 2025, Ho Chi Minh City*  
 - **Lotteria Vietnam App - Flutter** Online ordering & delivery, payment integration.  
 - **Lotte Cinema App - Flutter**. Seat booking, promotions, loyalty, multi-payment.
-- **SHARK Market - Android/iOS Native** – Online supermarket (15,000+ items, 2-hour delivery).
+- **SHARK Market - Android/iOS Native** – Online supermarket.
 - **L.POINT App** – Unified membership & point redemption.  
 - CI/CD with Bitrise, staging environment, app store releases.
 
 ### Freelance | *Flutter Developer*  
 *2021 – 2022, Ho Chi Minh City*  
-- **MyHotel App - Flutter** (Agoda-like booking, team size: 3). Custom calendar, Google Maps, multilingual, NicePay integration.  
+- **MyHotel App - Flutter** (Agoda-like booking, Mobile team size: 3). Custom calendar, Google Maps, multilingual, NicePay integration.  
 - **Real Estate App - Flutter** (Mobile team size: 2). Listings, notifications, YouTube integration, Firebase messaging.  
 
 ### SNA Vietnam | *Mobile Developer*  
