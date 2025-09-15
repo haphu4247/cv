@@ -61,5 +61,6 @@ Eager to grow into a FE and BE Developer while continuing to deliver high-qualit
 ## 🎓 Education
 **Cao Thang Technical College**  
 Bachelor’s in Electrical and Electronics Engineering (2013 – 2016)  
+**[Flutter Certificate from Android ATC]** (https://drive.google.com/file/d/1N-HtribnVz-yII20nhelpOL_8N7KMDaK/view?usp=sharing)
 
-**Flutter Certificate from Android ATC** https://drive.google.com/file/d/1N-HtribnVz-yII20nhelpOL_8N7KMDaK/view?usp=sharing
+
