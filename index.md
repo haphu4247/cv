@@ -6,17 +6,17 @@ title: "Phong Phu Ha - CV"
 # Phong Phu Ha
 
 📍 Ho Chi Minh City, Vietnam  
-📞 0703322051  
+📞 (+84)703322051  
 ✉️ haphu4247@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/phong-phu-ha-9694b5145) | 🌐 [Portfolio](https://phuhp.web.app)
 
 ---
 
 ## 👨‍💻 Summary
-Mobile Developer with **7+ years** of experience in Android, iOS, and Flutter.  
-Skilled in performance optimization, CI/CD pipelines, scalable architecture.  
-Worked on **15+ projects** across F&B, cinema, e-commerce, real estate, and education.  
-Passionate about **clean code, SOLID, KISS** and new technologies.  
+Mobile Developer from **2017** in Android, and expand my expertise in iOS and Flutter from **2020**.  
+Skilled in performance optimization, Native and Cross-platform App, CI/CD pipelines.  
+Worked on **many projects** across F&B, cinema, booking, e-commerce, real estate, and education.  
+Eager to grow into a FE and BE Developer while continuing to deliver high-quality mobile app
 
 ---
 
@@ -51,6 +51,7 @@ Passionate about **clean code, SOLID, KISS** and new technologies.
 - **Cocona App - Android** : Social video network: live streaming, video uploads, Google Maps, TensorFlow research.
 
 **Earlier Roles**  
+*10/2016 – 2019, Ho Chi Minh City*
 - 5Stars Software Solution – Android Developer.  
 - FPT Software – Xamarin & Android Developer (IMS, NGTV projects).  
 - GOSU Game Company – Unity MMO game (AssetBundle system).
