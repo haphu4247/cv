@@ -5,18 +5,18 @@ title: "Phong Phu Ha - CV"
 
 # Phong Phu, Ha
 
-📍 Ho Chi Minh City, Vietnam  
-📞 (+84)703322051  
+📍 Georgia, USA 
+📞 +1(470)507 1513
 ✉️ haphu4247@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/phong-phu-ha-9694b5145) | 🌐 [Portfolio](https://phuhp.web.app)
 
 ---
 
 ## 👨‍💻 Summary
-Mobile Developer from **2017** in Android, and expand my expertise in iOS and Flutter from **2020**.  
-Skilled in performance optimization, Native and Cross-platform App, CI/CD pipelines.  
-Worked on **many projects** across F&B, cinema, booking, e-commerce, real estate, and education.  
-Eager to grow into a FE and BE Developer while continuing to deliver high-quality mobile app
+**Mobile Developer** since **2017** (Android), with **iOS** and **Flutter** experience from **2020**.  
+Strong in performance optimization, native and cross-platform apps, and CI/CD.  
+Shipped apps in **F&B, cinema, booking, e-commerce, real estate, and education**.  
+Aiming to grow into full-stack (FE/BE) while continuing to deliver high-quality mobile solutions.
 
 ---
 
@@ -29,8 +29,8 @@ Eager to grow into a FE and BE Developer while continuing to deliver high-qualit
 ## 🛠 Technical Skills
 - **Mobile Development:** Flutter, Dart, Android (Java/Kotlin), iOS (Swift)  
 - **Architecture:** Clean Architecture, MVVM, VIPER, MVC, SOLID, KISS  
-- **Tools & Platforms:** Firebase, Bitrise CI/CD, Git, REST API, SQLite
-- **Other:** Google Maps API, Payment Gateway Integration (Momo, ZaloPay, OnePay), Push Notifications  
+- **Tools & Platforms:** Bitrise CI/CD, Git, REST API, SQLite  
+- **Integrations:** Google Maps API, Payment gateways (Momo, ZaloPay, OnePay), Firebase, Push Notifications  
 
 ---
 
@@ -38,33 +38,31 @@ Eager to grow into a FE and BE Developer while continuing to deliver high-qualit
 
 ### LOTTE Data Communication Vietnam | *Mobile Developer*  
 *Aug 2022 – Jul 2025, Ho Chi Minh City*  
-- **Lotteria Vietnam App - Flutter** Online ordering & delivery, payment integration.  
-- **Lotte Cinema App - Flutter**. Seat booking, promotions, loyalty, multi-payment.
-- **SHARK Market - Android/iOS Native** – Online supermarket.
-- **L.POINT App - Android/iOS Native** – Unified membership & point redemption.  
-- CI/CD with Bitrise, staging environment, app store releases.
+- **Lotteria Vietnam App** (Flutter): Online ordering & delivery, payment integration.  
+- **Lotte Cinema App** (Flutter): Seat booking, promotions, loyalty, multi-payment.  
+- **SHARK Market** (Android/iOS): Online supermarket app.  
+- **L.POINT App** (Android/iOS): Unified membership & point redemption.  
+- Set up CI/CD with Bitrise for development and release.
+- Set up multi environments(dev, staging, production).
+- Set up Google Play and Apple Store for release.
+- Manage and release application on Google Play and Apple Store.
 
-### Freelance | *Flutter Developer*  
+### Freelance | *Flutter Developer* 
 *2021 – 2022, Ho Chi Minh City*  
-- **MyHotel App - Flutter** (Agoda-like booking, Mobile team size: 3). Custom calendar, Google Maps, multilingual, NicePay integration.  
-- **Real Estate App - Flutter** (Mobile team size: 2). Listings, notifications, YouTube integration, Firebase messaging.  
+- **MyHotel App** (Flutter): Agoda-style booking; custom calendar, Google Maps, multilingual, NicePay.  
+- **Real Estate App** (Flutter): Listings, notifications, YouTube integration, Firebase messaging.  
 
 ### SNA Vietnam | *Mobile Developer*  
 *2020 – 2021, Ho Chi Minh City*  
-- **PlanK App- Flutter**: Korean learning by video & voice-to-text.  
-- **My Counselor App - iOS**: Counseling app, voice transcription, Firebase, VIPER.  
+- **PlanK App** (Flutter): Korean learning with video & voice-to-text.  
+- **My Counselor App** (iOS): Counseling app; voice transcription, Firebase, VIPER.  
 
 *2019 – 2020, Ho Chi Minh City*  
-- **Cocona App - Android** : Social video network: live streaming, video uploads, Google Maps, TensorFlow research.
+- **Cocona App** (Android): Social video app — live streaming, uploads, Google Maps, TensorFlow.  
 
-**Earlier Roles**  
-*2017 – 2019, Ho Chi Minh City*
-- 5Stars Software Solution – Android Developer.  
-- FPT Software – Xamarin & Android Developer (IMS, NGTV projects).  
-- GOSU Game Company – Unity MMO game (AssetBundle system).
+*2017 – 2019, Ho Chi Minh City*  
+- **5Stars Software Solution** – Android Developer.  
+- **GOSU Game Company** – Unity MMO (AssetBundle system).  
+- **FPT Software** – Xamarin & Android (IMS, NGTV).
 
 ---
-
-
-
-
