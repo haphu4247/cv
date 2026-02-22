@@ -28,7 +28,7 @@ Aiming to grow into full-stack (FE/BE) while continuing to deliver high-quality 
 
 ## 🛠 Technical Skills
 - **Mobile Development:** Flutter, Dart, Android (Java/Kotlin), iOS (Swift)  
-- **Architecture:** Clean Architecture, MVVM, VIPER, MVC, SOLID, KISS; GetX (Flutter)  
+- **Architecture:** Clean Architecture, MVVM, VIPER, MVC, SOLID, KISS;
 - **Tools & Platforms:** Bitrise CI/CD, Git, REST API, SQLite, Room, Realm  
 - **Integrations:** Google Maps API, Payment gateways (Momo, ZaloPay, OnePay), Firebase, Push Notifications, and other third-party
 
