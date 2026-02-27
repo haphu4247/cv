@@ -42,7 +42,7 @@ Aiming to grow into full-stack (FE/BE) while continuing to deliver high-quality 
 - **Lotte Cinema** (Flutter): Movie listings, showtimes, seat selection, promotions, loyalty; payments (OnePay, MOMO, ZaloPay). Built from scratch; dev/production env, Bitrise CI/CD for development and production, managed releases on Google Play and App Store. 
 - **SHARK Market** (Android/iOS): Online supermarket app.  
 - **L.POINT App** (Android/iOS native): Unified membership & point redemption across Lotte affiliates.  
-- Multi-environment setup (dev, staging, production); managed releases on Google Play and App Store.
+- Maintain and build new features for app,  Multi-environment setup (dev, staging, production), CI/CD setup, build app, setup for releases and rollout app on Google Play and App Store.
 
 ### Freelance | *Flutter Developer* 
 *2021 – 2022, Ho Chi Minh City*  
